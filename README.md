@@ -10,6 +10,8 @@
 5. Romantic Movies
 6. Documentaries
 
+# Visit Website: https://netflix-clone-8d4d3.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
