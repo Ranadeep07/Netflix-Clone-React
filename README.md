@@ -1,6 +1,14 @@
 # Netflix Clone App React
 
+![Screenshot (28)](https://user-images.githubusercontent.com/60144892/103356466-f80d2580-4ad6-11eb-9f5e-8359275b51f2.png)
 
+# Categories of Movie Available 
+1. Netflix Original
+2. Trending Movies
+3. Action Movies
+4. Horror Movie
+5. Romantic Movies
+6. Documentaries
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
